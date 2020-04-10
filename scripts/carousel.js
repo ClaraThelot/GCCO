@@ -1,10 +1,12 @@
 $(document).ready(function(){
     $('.demo').slick({
-        // Enables auto play of slides
+        draggable: true,
         autoplay: true,
-        // Auto play change interval
-        autoplaySpeed: 3000,
-        // Current slide indicator dots
+        autoplaySpeed: 2000,
+        infinite: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        touchThreshold: 1000,
         dots: true
 
         /*
