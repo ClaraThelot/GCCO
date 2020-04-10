@@ -1,0 +1,31 @@
+body {
+    background-color: lavender;
+}
+
+.navbar {
+    background-color: #ad80ba !important;
+}
+
+.slider {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.description_accueil {
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texte_accueil {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
