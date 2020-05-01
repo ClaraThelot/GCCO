@@ -42,3 +42,12 @@ img {
   width: 25%;
   height: 10%;
 }
+
+.moyenne_image {
+  width: 30%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

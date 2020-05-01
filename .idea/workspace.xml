@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quizzypeezy" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,11 +37,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586529680579</updated>
-      <workItem from="1586529683467" duration="5554000" />
+      <workItem from="1586529683467" duration="6743000" />
+      <workItem from="1586965434042" duration="3844000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1586874089997">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586874089997" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1588341894594">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1588341894594" />
   </component>
 </project>
