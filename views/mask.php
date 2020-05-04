@@ -19,7 +19,7 @@
     <h4>Diagramme des tâches (<a href="../files/Taches.xmind" download>Télécharger le diagramme des tâches au format Xmind</a>)</h4>
     <img class="image_diagrammes" src="../images/Taches.PNG">
 
-    <h4>Diagramme des processus (<a href="../files/Taches.xmind" download>Télécharger le diagramme des processus au format Xmind</a>)</h4>
+    <h4>Diagramme des processus (<a href="../files/Processus.xmind" download>Télécharger le diagramme des processus au format Xmind</a>)</h4>
     <img class="image_diagrammes" src="../images/Processus.PNG">
 
     
